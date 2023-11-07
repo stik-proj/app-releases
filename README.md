@@ -1,4 +1,4 @@
-# Staika project Apps
+# Staika project Apps
 
 ## 릴리즈 노트
 
