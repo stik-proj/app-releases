@@ -1,5 +1,12 @@
 # defenGO 앱 릴리즈 노트
 
+## v2.3.0 (2024-04-22)
+신규 캐릭터 추가
+게임 밸런스 변경
+닉네임 변경 오류 수정
+버그 수정
+관련 링크: https://eztechfin.notion.site/9cd498181e894014bfdb225c7940f74e?pvs=4
+
 ## v2.2.0 (2024-03-14)
 **새로운 기능:**
 신규 캐릭터 4종 추가
@@ -8,6 +15,8 @@
 광고 랜덤 상자 추가
 **개선된 기능:**
 게임 밸런스 수정
+관련 링크1: https://eztechfin.notion.site/604acda306d743e9b74350eceb6d6232?pvs=4
+관련 링크2: https://eztechfin.notion.site/d0fcbb6e63d34348b9a4c08c90ee5454?pvs=4
 
 ## v2.1.12 (2023-12-14)
 **새로운 기능:**
